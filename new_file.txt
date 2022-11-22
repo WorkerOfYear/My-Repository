@@ -1,1 +1,1 @@
-print()
+print("Some string")
