@@ -4,11 +4,10 @@ import base64
 import getpass
 import logging
 import smtplib
-
 import sys
 
+
 path = 'smtp_5.log'
-path2 = 'smtp_5.log'
 
 
 def send_notification(email, txt):
